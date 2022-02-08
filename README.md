@@ -8,7 +8,7 @@
     A text-based DJI Tello Emulator
 ```
 ## About
-A DJI Tello text-based emulator. Listens to an UDP port and executes a subset of Tello commands. It is based on a fork of of [tello_sim](https://github.com/Fireline-Science/tello_sim) and relies on [plotext](https://github.com/piccolomo/plotext) to plot data on terminal.
+A DJI Tello text-based emulator. Listens to an UDP port and executes a subset of Tello commands. It is based on a fork of [tello_sim](https://github.com/Fireline-Science/tello_sim) and relies on [plotext](https://github.com/piccolomo/plotext) to plot data on a terminal.
 
 ## Why
 I needed a way to execute integration tests quickly and reliably, without the hassle (and potential harm) of connecting to a real Tello. Text-based plots allow to easily visualize the flight route.
